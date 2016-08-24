@@ -1,0 +1,14 @@
+layout_spectrum: 0.9233200964517891
+typography_spectrum: 0.36331859324127436
+color:
+  brandStrength: 0.7651919168420136
+  lightness: 0.34033524873666465
+  saturation: 0.39704400999471545
+  rhythmicContrast: 0.611099228495732
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Seven
